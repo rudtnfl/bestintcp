@@ -1,0 +1,5 @@
+
+{ "name": "bestintcp",
+  "country": "KR",
+  "domains": ["sensor"],
+   "render_readme": true}
